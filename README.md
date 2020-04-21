@@ -1,2 +1,2 @@
 # EventTicket
-About Ticket event but still in console not gui
+About ticket event but still in console not gui
